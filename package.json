@@ -1,0 +1,6 @@
+{
+  "name"          : "vector-tile-overzoom-demo",
+  "dependencies"  : {
+      "mapnik": "3.x"
+  }
+}
